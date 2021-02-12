@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaGuiada</string>
+    <string name="titulo">Mi super mascota</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="ivLogo"></string>
+    <string name="tvNombre">Nombre de la mascota:</string>
+    <string name="tvTipo">Tipo:</string>
+    <string name="rbPerro">Perro</string>
+    <string name="rbGato">Gato</string>
+    <string name="btnRegistrar">Registrar</string>
+
+</resources>
